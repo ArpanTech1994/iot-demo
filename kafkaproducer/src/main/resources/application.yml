@@ -1,0 +1,2 @@
+kafka:
+  bootStrapServer: localhost:9092
